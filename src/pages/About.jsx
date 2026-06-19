@@ -16,7 +16,7 @@ const values = [
 const founders = [
   { name: "Akhil - CA ,CMA Semi qualified ", designation: "Founder ", color: "bg-accent" },
   { name: "Subha - CA ,CMA semi qualified", designation: "Co-Founder ", color: "bg-primary" },
-  { name: "Gayathri - CA ,CMA  Semi qualified", designation: "Co-Founder", color: "bg-accent" },
+  { name: "Gayathri - CMA, CA Semi qualified", designation: "Co-Founder", color: "bg-accent" },
 ];
 
 export default function About() {
