@@ -1,9 +1,9 @@
 import React from "react";
-import HeroSection from "@/components/home/HeroSection";
-import WhyChooseUs from "@/components/home/WhyChooseUs";
-import ExpertiseSection from "@/components/home/ExpertiseSection";
-import StatsSection from "@/components/home/StatsSection";
-import CTASection from "@/components/home/CTASection";
+import HeroSection from "@/components/Home/HeroSection";
+import WhyChooseUs from "@/components/Home/WhyChooseUs";
+import ExpertiseSection from "@/components/Home/ExpertiseSection";
+import StatsSection from "@/components/Home/StatsSection";
+import CTASection from "@/components/Home/CTASection";
 import SEO from "@/components/SEO";
 
 export default function Home() {
