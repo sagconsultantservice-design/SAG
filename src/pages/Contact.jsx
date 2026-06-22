@@ -142,7 +142,7 @@ export default function Contact() {
                       <p className="font-body font-medium text-foreground">+91 8125719039</p>
                     </div>
                   </a>
-                  <a href="sagconsultantservice@gmail.com" className="flex items-start gap-4 group">
+                  <a href="mailto:sagconsultantservice@gmail.com" className="flex items-start gap-4 group">
                     <div className="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center flex-shrink-0 group-hover:bg-accent transition-colors">
                       <Mail className="w-5 h-5 text-accent group-hover:text-accent-foreground transition-colors" />
                     </div>
